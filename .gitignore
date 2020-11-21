@@ -1,0 +1,36 @@
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules/
+
+# nano & vim editors swap files
+nano.save
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# NPM Lock file
+package-lock.json
+
+# Webstorm project files
+.idea
+.settings
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Other
+*.stackdump

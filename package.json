@@ -1,0 +1,16 @@
+{
+  "name": "InstaflashBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nurasyl Aldan <nurassyl.aldan@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "scrape-it": "^5.2.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0"
+  }
+}
